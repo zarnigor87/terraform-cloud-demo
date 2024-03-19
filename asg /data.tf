@@ -7,7 +7,7 @@ data "terraform_remote_state" "vpc" {
 
 
 # DB related information
-data "terraform_remote_state" "vpc" {
+data "terraform_remote_state" "rds" {
 }
 
 
